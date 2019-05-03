@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tarea1Calculadora</string>
+    <string name="resultText">El resultado es:</string>
+</resources>
